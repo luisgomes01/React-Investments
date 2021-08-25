@@ -1,0 +1,13 @@
+.investment-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding-left: 2.2rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    flex-direction: column;
+    
+}
